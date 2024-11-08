@@ -29,7 +29,7 @@
         <userAgentUtils.version>1.21</userAgentUtils.version>
         <org.mapstruct.version>1.4.1.Final</org.mapstruct.version>
         <hutool.version>5.8.20</hutool.version>
-        <lombok.version>1.18.16</lombok.version>
+        <lombok.version>1.18.34</lombok.version>
         <mysql.version>8.0.31</mysql.version>
         <hibernate-jpamodelgen.version>5.6.9.Final</hibernate-jpamodelgen.version>
         <guava.version>30.0-jre</guava.version>
